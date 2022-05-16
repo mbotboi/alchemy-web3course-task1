@@ -1,5 +1,7 @@
 node_modules
 utils/rpcs.json
 courseWallet.json
-artifacs
+artifacts
 cache
+.DS_Store
+metadata/.DS_Store
